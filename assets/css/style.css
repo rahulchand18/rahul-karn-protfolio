@@ -218,7 +218,7 @@ h6 {
   height: 100vh;
   background: url("../img/hero.jpg") top center;
   opacity: 0.8;
-  background-size: contain;
+  background-size: auto;
 }
 
 #hero:before {
